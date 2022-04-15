@@ -1,0 +1,19 @@
+{
+  "name": "d2h-cli",
+  "version": "1.0.0",
+  "description": "It's command line application using NodeJS which will be a  standalone application with basic functionalities like viewing your balance, add  balance, view the tariff packages, add the channels to tariff packages if user has  sufficient balance etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nisha1977/D2H-App.git"
+  },
+  "author": "Nisha Rathod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nisha1977/D2H-App/issues"
+  },
+  "homepage": "https://github.com/nisha1977/D2H-App#readme"
+}
