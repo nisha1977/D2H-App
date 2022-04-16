@@ -40,11 +40,5 @@ Package linking: (Go to project directory and run below command)
 Type in command prompt 
 
 ```bash
-  d2h
-```
-
-### You can also run this application using npx (Published on npm):
-
-```bash
-  npx d2h-s
+  d2h-app
 ```
