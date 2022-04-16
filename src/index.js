@@ -1,5 +1,5 @@
 #! /usr/bin/env node
-const chalk = require("chalk")
+const chalk = require("chalk");
 const Account = require("./services/accounts");
 let accounts = new Account();
 
